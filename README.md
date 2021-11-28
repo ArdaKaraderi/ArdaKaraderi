@@ -1,3 +1,3 @@
 <br />
 
-![ORPTech Logo](https://orptech.com/images/orptech-logo.png)
+![ORPTech Logo](https://orptech.com/elements/img/orptech-logo.png)
