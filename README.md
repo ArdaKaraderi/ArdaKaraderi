@@ -14,6 +14,7 @@ I am Arda Karaderi. I am a Software Engineer with an entrepreneurial spirit. My 
 
 ## ⚡ Technologies
 Talk to me about:
+- Your business ideas and your business.
 - Front-end development using **HTML, Javascript, CSS, Bootstrap and React**.
 - Backend development using **Laravel, Spring, Flask**.
 - Making for **Relational Database Management Systems**.
