@@ -9,6 +9,8 @@ I am Arda Karaderi. I am a Software Engineer with an entrepreneurial spirit. My 
 ## 👯 Experience
 * Director at ORPTech Software
 * Director at Geeksy Consultancy
+* Founder at OKart
+* Co-founder at CTRL-LAW
 
 ## ⚡ Technologies
 Talk to me about:
