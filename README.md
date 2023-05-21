@@ -6,23 +6,24 @@
   
 I am Arda Karaderi. I am a Software Engineer with an entrepreneurial spirit. My professional interests include Financial Systems, CRM Systems, and creating profitable products from ideas.
 
-## 👯 Experience
-* Director at ORPTech Software
-* Director at Geeksy Consultancy
+## :boom: Experience
+* Director/Lead Developer at Orpech Software
+* Director/Lead Consultant at Geeksy Consultancy
 * Founder at OKart
-* Co-founder at CTRL-LAW
+* Co-founder/CTO at CTRL-LAW
 
 ## ⚡ Technologies
 Talk to me about:
 - Your business ideas and your business.
-- Front-end development using **HTML, Javascript, CSS, Bootstrap and React**.
+- Front-end development using **HTML5, Javascript, CSS3, Tailwind, Bootstrap and React**.
 - Backend development using **Laravel, Spring, Flask**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
-- Mobile application development using **Flutter and React Native**.
+- Mobile application development using **React Native and Flutter**.
 - Creating scalable cloud architecture using **AWS Cloud & DigitalOcean**.
+- DevOps using **Jenkins & CircleCI**.
 
 ## Hello World! 🤔
 - 💬 Ask me about anything an everything.
 - 🎯 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ardakaraderi/)
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact: On average, Cyprus enjoys around 320 days of sun a year.
