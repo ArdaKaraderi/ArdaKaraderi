@@ -1,6 +1,6 @@
 <br />
 
-<p align="center"><a href="https://orptech.com" target="_blank"><img src="https://orptech.com/elements/img/orptech-logo.png" width="400"></a></p>
+<p align="center"><a href="https://orptech.com" target="_blank"><img src="https://orptech.com/assets/images/logos/orptech-logo-white.png" width="400"></a></p>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   
