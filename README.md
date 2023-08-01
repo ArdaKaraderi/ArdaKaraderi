@@ -6,7 +6,7 @@
   
 I am Arda Karaderi. I am a Software Engineer with an entrepreneurial spirit. My professional interests include Financial Systems, CRM Systems, and creating profitable products from ideas.
 
-## :boom: Experience
+## :boom: Roles
 * Director/Lead Developer at ORPtech Software
 * Director/Lead Consultant at Geeksy Consultancy
 * Founder at OKart
