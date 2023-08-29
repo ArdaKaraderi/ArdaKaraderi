@@ -10,7 +10,7 @@ I am Arda Karaderi. I am a Software Engineer with an entrepreneurial spirit. My 
 * Director/Lead Developer at ORPtech Software
 * Director/Lead Consultant at Geeksy Consultancy
 * Founder at OKart
-* Co-founder/CTO at CTRL-LAW
+* Co-founder/Tech Consultant at CTRL-LAW
 
 ## ⚡ Technologies
 Talk to me about:
@@ -24,6 +24,6 @@ Talk to me about:
 - DevOps using **Jenkins & CircleCI**.
 
 ## Hello World! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 🎯 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ardakaraderi/)
 - ⚡ Fun fact: On average, Cyprus enjoys around 320 days of sun a year.
