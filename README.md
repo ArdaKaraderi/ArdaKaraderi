@@ -15,14 +15,14 @@ For my previous work experience please check out my LinkedIn profile! Feel free 
 
 ## ⚡ Technologies
 Talk to me about:
-- Your business ideas and your business.
+- Anything related to business and collaboration.
 - Front-end development using **HTML5, Javascript, CSS3, Tailwind, Bootstrap and React**.
 - Backend development using **Laravel, Spring, Flask**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
 - Mobile application development using **React Native and Flutter**.
 - Creating scalable cloud architecture using **AWS Cloud & DigitalOcean**.
-- DevOps using **Jenkins & CircleCI**.
+- DevOps using **GitHub Actions, Jenkins & CircleCI**.
 
 ## Hello World! 🤔
 - 💬 Ask me about anything and everything.
