@@ -16,7 +16,7 @@ For my previous work experience please check out my LinkedIn profile! Feel free 
 ## ⚡ Technologies
 Talk to me about:
 - Anything related to business and collaboration.
-- Front-end development using **HTML5, Javascript, CSS3, Tailwind, Bootstrap and React**.
+- Frontend development using **HTML5, Javascript, CSS3, Tailwind, Bootstrap and React**.
 - Backend development using **Laravel, Spring, Flask**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
