@@ -24,7 +24,7 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud & DigitalOcean**.
 - DevOps using **GitHub Actions, Jenkins & CircleCI**.
 
-## Hello World! 🤔
+## 🤔 Hello World! 
 - 💬 Ask me about anything and everything.
 - 🎯 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ardakaraderi/)
 - ⚡ Fun fact: On average, Cyprus enjoys around 320 days of sun a year.
