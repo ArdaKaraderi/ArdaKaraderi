@@ -2,11 +2,9 @@
 
 <p align="center"><a href="https://orptech.com" target="_blank"><img src="https://orptech.com/assets/images/logos/orptech-logo-white.png" width="400"></a></p>
 
-<h2> 
-  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
     
   I am Arda Karaderi, a Software Engineer with an entrepreneurial spirit. My professional interests include Financial Systems, CRM Systems, and creating profitable products from ideas.
-<h2>
   
 ## :boom: Roles
 * Director/Lead Developer at ORPtech Software
