@@ -11,7 +11,7 @@ Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 * Director/Lead Consultant at Geeksy Consultancy
 * Co-founder/Tech Consultant at CTRL-LAW
 
-For my previous work experience please check out my LinkedIn profile! Feel free to invite me to connect!
+For my previous work experience check out my LinkedIn profile! Feel free to invite me to connect!
 
 ## ⚡ Technologies
 Talk to me about:
