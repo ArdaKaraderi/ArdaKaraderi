@@ -4,19 +4,19 @@
 
 Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
     
-  I am Arda Karaderi, a Software Engineer with an entrepreneurial spirit. My professional interests include Financial Systems, CRM Systems, and creating profitable products from ideas.
-  
+My name is Arda Karaderi, a Software Engineer with an entrepreneurial spirit. My professional interests include Financial Systems, CRM Systems, and creating profitable products from ideas.
+
 ## :boom: Roles
 * Director/Lead Developer at ORPtech Software
 * Director/Lead Consultant at Geeksy Consultancy
-* Co-founder/Tech Consultant at CTRL-LAW
+* Co-founder/Consultant at CTRL-LAW
 
 For my previous work experience check out my LinkedIn profile! Feel free to invite me to connect!
 
 ## ⚡ Technologies
 Talk to me about:
 - Anything related to business and collaboration.
-- Frontend development using **HTML5, Javascript, CSS3, Tailwind, Bootstrap and React**.
+- Frontend development using **Javascript, HTML, CSS, Tailwind, Bootstrap and React**.
 - Backend development using **Laravel, Spring, Flask**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
