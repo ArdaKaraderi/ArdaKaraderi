@@ -10,6 +10,8 @@ My name is Arda Karaderi, a Software Engineer with an entrepreneurial spirit. My
 * Director/Lead Developer at ORPtech Software
 * Director/Lead Consultant at Geeksy Consultancy
 * Co-founder/Consultant at CTRL-LAW
+* Founder at Orbill Payment Systems
+* Founder at OKart Digital Business Cards
 
 For my previous work experience check out my LinkedIn profile! Feel free to invite me to connect!
 
