@@ -6,9 +6,9 @@ Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!
     
 My name is Arda Karaderi, a Software Engineer with an entrepreneurial spirit. My professional interests include Financial Systems, CRM Systems, and creating profitable products from ideas.
 
-## :boom: Roles
-* Director/Lead Developer at ORPtech Software
-* Co-founder/Consultant at CTRL-LAW
+## :boom: Current Roles
+* Director at ORPtech Software
+* Co-founder at CTRL-LAW
 * Founder at Orbill Payment Systems
 
 For my previous work experience check out my LinkedIn profile! Feel free to invite me to connect!
