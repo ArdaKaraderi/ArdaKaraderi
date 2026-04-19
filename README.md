@@ -11,18 +11,18 @@ My name is Arda Karaderi, a Software Engineer with an entrepreneurial spirit. My
 * Co-founder at CTRL-LAW
 * Founder at Orbill Payment Systems
 
-For my previous work experience check out my LinkedIn profile! Feel free to invite me to connect!
+For my previous work experiences, check out my LinkedIn profile! Feel free to invite me to connect!
 
 ## ⚡ Technologies
 Talk to me about:
 - Anything related to business and collaboration.
-- Frontend development using **Javascript, HTML, CSS, Tailwind, Bootstrap and React**.
+- Frontend development using **JavaScript, HTML, CSS, Tailwind, Bootstrap and React**.
 - Backend development using **Laravel, Spring, Flask**.
 - Making for **Relational Database Management Systems**.
 - Robust full-stack system design implementation.
 - Mobile application development using **React Native and Flutter**.
 - Creating scalable cloud architecture using **AWS Cloud & DigitalOcean**.
-- DevOps using **GitHub Actions, Jenkins & CircleCI**.
+- DevOps using **Docker, Kubernetes, Coolify, GitHub Actions, Jenkins & CircleCI**.
 
 ## 👋 Hello World! 
 - 💬 Ask me about anything and everything.
